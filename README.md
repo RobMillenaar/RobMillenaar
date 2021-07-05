@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RobMillenaar
-- 👀 I’m interested in C, C++, Matlab, Python
+- 👀 I’m interested in C, C++, Matlab, Python, astronomy data processing
 -
 - 📫 How to reach me: r.p.millenaar@gmail.com
 
